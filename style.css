@@ -52,7 +52,7 @@
 .calculator{
     background-color: #cfbaf0;
     border: 15px solid #90dbf4;
-    width: 400px;
+    width: 380px;
     height: 400px;
     display: grid;
     grid-template-columns:1fr 1fr 1fr 1fr;
